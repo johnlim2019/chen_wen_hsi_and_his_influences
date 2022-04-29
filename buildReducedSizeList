@@ -1,0 +1,120 @@
+#get list of all images for feature extraction
+import os
+# path='resized_chen/'
+# imageLs = os.listdir(path)
+# imageLsOutput = []
+# count = 0
+# for imgStr in imageLs:
+#     count += 1
+#     imgLs = list(imgStr)
+#     #print(imgLs)
+#     index = imgLs.index('.')
+#     #print(index)
+#     name =imgLs[0:index]
+#     nameStr = path+''.join(name)+".jpg"
+#     print(nameStr)
+#     imageLsOutput.append(nameStr)
+# print(count)
+# import pickle
+# with open('chenimageResizedNameLs.pkl', 'wb') as f:
+#     pickle.dump(imageLsOutput,f)
+
+# with open('chenimageResizedNameLs.pkl', 'rb') as f:
+#     # The protocol version used is detected automatically, so we do not
+#     # have to specify it.
+#     imgNameLs = pickle.load(f)
+# print(len(imgNameLs))
+# f.close()
+
+path='resized_paris/'
+imageLs = os.listdir(path)
+imageLsOutput = []
+count = 0
+for imgStr in imageLs:
+    count += 1
+    imgLs = list(imgStr)
+    #print(imgLs)
+    index = imgLs.index('.')
+    #print(index)
+    name =imgLs[0:index]
+    nameStr = path+''.join(name)+".jpg"
+    print(nameStr)
+    imageLsOutput.append(nameStr)
+print(count)
+
+# import re
+# newimgels =[]
+# # rename the paris images 
+# for source in imageLs:
+#     print(source)
+#     name = re.search("^(.)*(?=\.)",source)
+#     name = re.sub("\W","_",name.group())
+#     name = re.sub("_{2}","_",name)
+#     name = re.sub("_{2}","_",name)
+#     destination = path + name + ".jpg"
+#     newimgels.append(destination)
+#     print(name)
+#     try:
+#         os.rename(path+source,destination)
+#     except FileExistsError:
+#         print("desintation file exists")
+#     except FileNotFoundError:
+#         print("source file not found")
+
+import pickle
+with open('parisimageResizedNameLs.pkl', 'wb') as f:
+    pickle.dump(imageLsOutput,f)
+
+with open('parisimageResizedNameLs.pkl', 'rb') as f:
+    # The protocol version used is detected automatically, so we do not
+    # have to specify it.
+    imgNameLs = pickle.load(f)
+print(len(imgNameLs))
+f.close()
+
+# import os
+# path='resized_shanghai/'
+# imageLs = os.listdir(path)
+# imageLsOutput = []
+# count = 0
+# for imgStr in imageLs:
+#     count+=1
+#     imgLs = list(imgStr)
+#     #print(imgLs)
+#     index = imgLs.index('.')
+#     #print(index)
+#     name =imgLs[0:index]
+#     nameStr = path+''.join(name)+".jpg"
+#     print(nameStr)
+#     imageLsOutput.append(nameStr)
+# print(count)
+
+# # import re
+# # newimgels =[]
+# # # rename the shanghai images 
+# # for source in imageLs:
+# #     print(source)
+# #     name = re.search("^(.)*(?=\.)",source)
+# #     name = re.sub("\W","_",name.group())
+# #     name = re.sub("_{2}","_",name)
+# #     name = re.sub("_{2}","_",name)
+# #     destination = path + name + ".jpg"
+# #     newimgels.append(destination)
+# #     print(name)
+# #     try:
+# #         os.rename(path+source,destination)
+# #     except FileExistsError:
+# #         print("desintation file exists")
+# #     except FileNotFoundError:
+# #         print("source file not found")
+
+# import pickle
+# with open('shanghaiimageResizedNameLs.pkl', 'wb') as f:
+#     pickle.dump(imageLsOutput,f)
+
+# with open('shanghaiimageResizedNameLs.pkl', 'rb') as f:
+#     # The protocol version used is detected automatically, so we do not
+#     # have to specify it.
+#     imgNameLs = pickle.load(f)
+# print(len(imgNameLs))
+# f.close()

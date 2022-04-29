@@ -1,0 +1,1364 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>
+		<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="format-detection" content="telephone=no"><title>Chen Wen Hsi Paintings - View Hundreds of Authentic Artworks</title>
+<script type="text/javascript">var ajaxurl = "https://chenwenhsi.com/wp-admin/admin-ajax.php";</script>
+		<style id="critical-path-css" type="text/css">
+			body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}		</style>
+
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="View our huge collection of verified paintings by Singaporean artist Chen Wen Hsi, one of the most established 1st generation artists in Singapore."/>
+<link rel="canonical" href="https://chenwenhsi.com/gallery/" />
+<link rel="next" href="https://chenwenhsi.com/gallery/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Chen Wen Hsi Paintings - View Hundreds of Authentic Artworks" />
+<meta property="og:description" content="View our huge collection of verified paintings by Singaporean artist Chen Wen Hsi, one of the most established 1st generation artists in Singapore." />
+<meta property="og:url" content="https://chenwenhsi.com/gallery/" />
+<meta property="og:site_name" content="Chen Wen Hsi" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="View our huge collection of verified paintings by Singaporean artist Chen Wen Hsi, one of the most established 1st generation artists in Singapore." />
+<meta name="twitter:title" content="Chen Wen Hsi Paintings - View Hundreds of Authentic Artworks" />
+<meta name="twitter:image" content="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4.jpg" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Person","url":"https:\/\/chenwenhsi.com\/","sameAs":[],"@id":"#person","name":"Chen Wen Hsi"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Chen Wen Hsi &raquo; Feed" href="https://chenwenhsi.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chen Wen Hsi &raquo; Comments Feed" href="https://chenwenhsi.com/comments/feed/" />
+
+<link rel="shortcut icon" href="https://chenwenhsi.com/wp-content/uploads/2018/01/chen-wen-hsi-favicon.png"  />
+<link rel="alternate" type="application/rss+xml" title="Chen Wen Hsi &raquo; Products Feed" href="https://chenwenhsi.com/gallery/feed/" />
+<script type="text/javascript">window.abb = {};php = {};window.PHP = {};PHP.ajax = "https://chenwenhsi.com/wp-admin/admin-ajax.php";PHP.wp_p_id = "200";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;var mk_images_dir = "https://chenwenhsi.com/wp-content/themes/jupiter/assets/images",mk_theme_js_path = "https://chenwenhsi.com/wp-content/themes/jupiter/assets/js",mk_theme_dir = "https://chenwenhsi.com/wp-content/themes/jupiter",mk_captcha_placeholder = "Enter Captcha",mk_captcha_invalid_txt = "Invalid. Try again.",mk_captcha_correct_txt = "Captcha correct.",mk_responsive_nav_width = 1140,mk_vertical_header_back = "Back",mk_vertical_header_anim = "1",mk_check_rtl = true,mk_grid_width = 1140,mk_ajax_search_option = "disable",mk_preloader_bg_color = "#da9779",mk_accent_color = "#da9779",mk_go_to_top =  "true",mk_smooth_scroll =  "true",mk_preloader_bar_color = "#da9779",mk_preloader_logo = "https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-preloader.png";var mk_header_parallax = false,mk_banner_parallax = false,mk_footer_parallax = false,mk_body_parallax = false,mk_no_more_posts = "No More Posts",mk_typekit_id   = "",mk_google_fonts = ["Poppins:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"],mk_global_lazyload = true;</script><link rel='stylesheet' id='wp-block-library-css'  href='https://chenwenhsi.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://chenwenhsi.com/wp-content/plugins/woo-gutenberg-products-block/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='GCTLP-timeline-styles-css-css'  href='https://chenwenhsi.com/wp-content/plugins/cool-timeline-pro/includes/gutenberg-instant-builder/dist/blocks.style.build.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.7.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.7.3' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='yith-wcan-frontend-css'  href='https://chenwenhsi.com/wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/assets/css/frontend.css?ver=3.7.0' type='text/css' media='all' />
+<style id='yith-wcan-frontend-inline-css' type='text/css'>
+.widget h3.widget-title.with-dropdown {position: relative; cursor: pointer;}
+                    .widget h3.widget-title.with-dropdown .widget-dropdown { border-width: 0; width: 22px; height: 22px; background: url(https://chenwenhsi.com/wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/assets/images/select-arrow.png) top 0px right no-repeat; background-size: 95% !important; position: absolute; top: 0; right: 0;}
+                    .widget h3.widget-title.with-dropdown.open .widget-dropdown {background-position: bottom 15px right;}
+</style>
+<link rel='stylesheet' id='style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/min/full-styles.6.1.6.css?ver=1544533536' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .hb-custom-header #mk-page-introduce, .mk-header { background-color:#ffffff; } .hb-custom-header > div, .mk-header-bg { background-color:#fff; } .mk-classic-nav-bg { background-color:#fff; } .master-holder-bg { background-color:#fff; } #mk-footer { background-color:; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:; font-size:14px; text-transform:none; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:91px; } .mk-process-steps[max-width~="950px"] ul::before { display:none !important; } .mk-process-steps[max-width~="950px"] li { margin-bottom:30px !important; width:100% !important; text-align:center; } .mk-event-countdown-ul[max-width~="750px"] li { width:90%; display:block; margin:0 auto 15px; } .compose-mode .vc_element-name .vc_btn-content { height:auto !important; } body, p, .mk-fancy-title { font-family:Poppins } @font-face { font-family:'star'; src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }
+</style>
+<link rel='stylesheet' id='mkhb-render-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-render.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-row-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-row.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-column-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-column.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-woocommerce-common-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/plugins/min/woocommerce-common.6.1.6.css?ver=1544533536' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-cz-woocommerce-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/css/woocommerce.6.1.6.css?ver=1544533534' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='https://chenwenhsi.com/wp-content/uploads/mk_assets/theme-options-production-1571371922.css?ver=1571371804' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/webfontloader.js?ver=5.2.15'></script>
+<script type='text/javascript'>
+WebFontConfig = {
+	timeout: 2000
+}
+
+if ( mk_typekit_id.length > 0 ) {
+	WebFontConfig.typekit = {
+		id: mk_typekit_id
+	}
+}
+
+if ( mk_google_fonts.length > 0 ) {
+	WebFontConfig.google = {
+		families:  mk_google_fonts
+	}
+}
+
+if ( (mk_google_fonts.length > 0 || mk_typekit_id.length > 0) && navigator.userAgent.indexOf("Speed Insights") == -1) {
+	WebFont.load( WebFontConfig );
+}
+		
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/chenwenhsi.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.5.5'></script>
+<link rel='https://api.w.org/' href='https://chenwenhsi.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chenwenhsi.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://chenwenhsi.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.15" />
+<meta name="generator" content="WooCommerce 3.7.3" />
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '171921100027636');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=171921100027636&ev=PageView&noscript=1"
+    /></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[] ,f=function(){var o={ti:"33000629"};
+        o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")} ,n=d.createElement(t),n.src=r,
+        n.async=1,n.onload=n .onreadystatechange=function() {var s=this.readyState;
+        s &&s!=="loaded"&& s!=="complete"||(f(),n.onload=n. onreadystatechange=null)},
+        i= d.getElementsByTagName(t)[0],i. parentNode.insertBefore(n,i)})(window,document,"script",
+        " //bat.bing.com/bat.js","uetq");
+</script><style type="text/css">
+                    .ctl-bullets-container {
+                display: block;
+                position: fixed;
+                right: 0;
+                height: 100%;
+                z-index: 1049;
+                font-weight: normal;
+                height: 70vh;
+                overflow-x: hidden;
+                overflow-y: auto;
+                margin: 15vh auto;
+            }</style><meta name="robots" content="noindex, follow"><script> var isTest = false; </script><meta itemprop="author" content="Chelina Planas" /><meta itemprop="datePublished" content="January 26, 2018" /><meta itemprop="dateModified" content="January 26, 2018" /><meta itemprop="publisher" content="Chen Wen Hsi" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->		<style type="text/css" id="wp-custom-css">
+			
+.wpcf7-form-control-wrap input.wpcf7-not-valid
+{
+    margin-bottom: 20px;
+	border-color: red;
+}
+.wpcf7-form-control-wrap input
+{
+	width: 100%;
+}
+.wpcf7-form-control-wrap textarea
+{
+	width: 100% !important;
+margin-bottom: 20px;
+}
+span.wpcf7-not-valid-tip {
+ width: auto;
+position: static;
+    color: red;
+    font-size: 14px;
+margin-top: -15px;
+}
+
+
+
+
+ .inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    /* 20px */
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+    /* 10px 20px */
+}
+
+
+
+.inputfile:focus + label,
+.inputfile.has-focus + label {
+    outline: 1px dotted #000;
+    outline: -webkit-focus-ring-color auto 5px;
+}
+
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    /* 4px */
+    margin-right: 0.25em;
+    /* 4px */
+}
+
+.inputfile + label {
+    color: #f1e5e6;
+    background-color: #d3394c;
+}
+
+.inputfile:focus + label,
+.inputfile.has-focus + label,
+.inputfile + label:hover {
+    background-color: #722040;
+}
+.widget_layered_nav ul li.chosen a:hover
+{
+background: #fafafa !important;
+color: #da9779 !important;
+}
+.widget_layered_nav ul li.chosen a
+{
+transition: all 0.5s;
+background: #f8f8f8 !important;
+    color: #222 !important;
+    border-color: #222;
+}
+
+.inputfileX
+{
+display: none;
+}
+.forFile
+{
+	transition: all 0.5s;
+	background: #f8f8f8 !important;
+    color: #222 !important;
+	padding: 10px;
+	border: 1px solid #222;
+}
+
+.forFile:hover
+{
+	background: #fff !important;
+    color: #da9779!important;
+	border-color: #da9779;
+}
+.wpcf7-submit
+{
+    margin-top: 20px;
+}
+
+.file-284 .wpcf7-not-valid-tip
+{
+margin-top: 20px !important;
+}
+
+
+/*
+image section
+*/
+#theme-page #page-section-10 .background-layer, #theme-page #page-section-20 .background-layer
+{
+
+background-size: cover !important;
+}
+#switcher
+{
+display: none;
+}
+@media (min-width: 768px){
+#mk-sidebar>div
+	{
+		display: block !important;
+	}
+}
+#mk-sidebar>div
+	{
+		display: block;
+	}
+@media (max-width: 767px){
+	#switcher
+	{
+		display: block;
+	}
+	#mk-sidebar>div
+	{
+		display: none;
+	}
+	#page-section-10.full-width-10,
+	#page-section-20.full-width-20
+	{
+		min-height: 300px !important;
+	}
+}
+
+/*Gallery page*/
+
+.woocommerce-ordering
+{
+display: none;
+}
+
+#switcher
+{
+width: 100%;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#mk-footer .widget:not(.widget_social_networks) a
+{
+color: inherit;
+}
+.cool-timeline.white-timeline .timeline-post .timeline-content .content-title a:hover
+{
+filter: opacity(1) !important;
+    -webkit-filter: opacity(1) !important;
+}
+.mk-woocommerce-shop-loop__title
+{
+margin-bottom: 15px;
+}
+
+
+/*From parent*/
+
+
+@media(max-width: 980px)
+{
+	#padding-3
+	{
+		display: none;
+	}
+	#mk-sidebar .sidebar-wrapper
+	{
+		display: none;
+	}
+	.theme-page-wrapper #mk-sidebar
+	{
+		padding: 20px !important;
+		width: auto !important;
+	}
+	
+}
+.woocommerce-ordering
+{
+	display: none !important
+}
+.mk-woocommerce-shop-loop__title
+{
+	margin-bottom: 25px;
+}
+#switcher
+{
+
+	display: inline-block;
+
+}
+#mk-sidebar
+{
+	padding-top: 30px;
+}
+@media (min-width: 981px)
+{
+	#switcher{
+		display: none;
+	}
+}
+
+/*strait-times*/
+#strait-times
+{
+	position: relative;
+	background: #19bc9a;
+}
+#strait-times .wpb_column 
+{
+	position: relative;
+	padding: 30px !important;
+}
+
+#strait-times p
+{
+	color: #fff;
+	margin-bottom: 0;
+	position: relative;
+	padding-left: 15px;
+}
+#strait-times .wpb_column>div
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.st-featured p
+{
+	font-weight: 600;
+	line-height: 20px;
+	font-size: 17px;
+}
+
+.the-st p
+{
+	font-family:  "Times New Roman", Times, serif;
+	line-height: 16px;
+	font-size: 14px;
+	padding-top: 5px;
+	margin-left: 15px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.st-text p
+{
+	font-style: italic;
+	font-size: 17px !important;
+}
+
+.st-arrow-link p a
+{
+	font-style: normal;
+	font-size: 35px;
+	color: #fff;
+}
+.st-img img
+{
+}
+	#strait-times .wpb_column>div:last-child
+{
+	width: 40px;
+}
+@media(max-width: 980px)
+{
+	#strait-times p
+	{
+		margin: 0;
+		text-align: center;
+	}
+	.st-text br
+	{
+		display: none;
+	}
+	.st-text
+	{
+		margin-top: 30px;
+	}
+	#strait-times .wpb_column>div
+	{
+		text-align: center;
+		width: 100% !important;
+	}
+	#strait-times .wpb_column>div:first-child br
+	{
+		display: none;
+	}
+	#strait-times .wpb_column>div:first-child
+	{
+		margin-bottom: 30px !important;
+	}
+	#strait-times .wpb_column>div:last-child p a
+	{
+		font-size: 50px;
+	}
+	#strait-times	.wpb_column>div:last-child p
+	{
+		text-align: center;
+		margin-top: 40px !important;
+	}
+#strait-times .wpb_column>div:last-child
+	{
+text-align: center !important;
+		margin: 0 !important;
+	}
+}
+@media(min-width: 981px){
+#strait-times .wpb_column>div:nth-child(1)
+{
+	width: 21%;
+	min-width: 160px;
+}
+#strait-times .wpb_column>div:nth-child(2)
+{
+	width: 20%;
+	min-width: 180px;
+}
+#strait-times .wpb_column>div:nth-child(3)
+{
+	width: 50%;
+	min-width: 475px;
+}
+#strait-times .wpb_column>div:nth-child(4)
+{
+	width: 70px;
+	max-width: 7%;
+	margin-top: 10px;
+}
+}
+
+/*Exhibition page*/
+.exhibition-header {
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.exhibition-page {
+    padding: 40px 15px;
+}
+
+.exhibition-page > div {
+    box-sizing: border-box;
+    float: left;
+}
+
+.ep-left {
+    width: 60%;
+}
+
+.ep-right {
+    padding-left: 50px;
+    width: 40%;
+    margin-bottom: 40px;
+}
+
+.exh-title {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.exh-title > * {
+    display: inline-block;
+}
+
+.exh-title h1 {
+    font-size: 32px;
+    padding-right: 10px;
+    margin-bottom: 0;
+	  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+  color: #404040;
+}
+
+.exh-artist {
+    margin-bottom: 30px;
+}
+
+.exh-artist h2 {
+    padding-right: 10px;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.exh-artist h2 a {
+    border: none !important;
+}
+
+.exh-info {
+    margin-bottom: 40px;
+}
+
+.exh-artist > * {
+    display: inline-block;
+}
+.tab-content a,
+.exh-info-item a {
+	border-bottom: 1px solid #da9779 !important;
+	font-weight: 400;
+	color: #da9779; 
+	margin-top: 5px;
+	display: inline-block;
+	line-height: 100%
+}
+.tab-content a{
+	border: none !important;
+	text-decoration: underline
+}
+.exh-info-item {
+    position: relative;
+    margin-bottom: 30px !important;
+}
+
+.exh-info-item > p {
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 0;
+	line-height: normal;
+}
+
+.exhibition-page .ep-left a {
+    border-bottom: 1px solid #da9779 !important;
+    font-weight: 400;
+    color: #da9779;
+    margin-top: 5px;
+    display: inline-block;
+    line-height: 100%;
+}
+.exh-gallery-grid
+{
+	margin-right: -10px;
+	margin-left: -10px;
+}
+.exh-gallery-grid:after
+{
+	content: '';
+	display: table;
+	clear: both;
+	visibility: hidden;
+}
+.exh-gg-item {
+    width: 33.33%;
+    height: 260px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+	position: relative;
+
+}
+
+.exh-gg-item:hover a,
+.exh-gg-item:hover svg {
+    opacity: 1 !important;
+}
+
+.exh-gg-item:hover .mk-image-overlay {
+    opacity: 0.6 !important;
+}
+.exh-gg-item .mk-image-overlay
+{
+	width: calc(100% - 20px);
+	height: calc(100% - 20px);
+	left: 10px;
+	top: 10px;
+}
+.ii-title
+{
+	  font-size: 22px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.55px;
+  color: #404040;
+	margin-bottom: 5px !important;
+}
+
+.exh-gg-item img {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    box-sizing: border-box;
+    border: 1px solid #efefef;
+}
+.tab-content,
+.ep-grid {
+    width: 100% !important;
+}
+
+.ep-grid section.products {
+    width: 100% !important;
+}
+
+.exh-embed-video {
+    position: relative;
+    padding-top: 56.25%;
+    margin: 20px auto 40px auto;
+    display: block !important;
+}
+
+.exh-embed-video iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+@media (max-width: 980px) {
+    .ep-left {
+        padding-right: 20px;
+        width: 60%;
+    }
+
+    .ep-right {
+        width: 40%;
+        padding-left: 20px;
+    }
+
+    .exh-gg-item {
+        width: 50%;
+    }
+}
+
+@media (max-width: 576px) {
+	.exh-info-item > p
+	{
+		padding-left: 0;
+	}
+    #mk-theme-container .download_catalogue {
+        text-align: center;
+    }
+
+    #mk-theme-container .download_catalogue a {
+        padding-left: 0;
+        padding-right: 0;
+        width: 250px;
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .exh-gg-item {
+        width: 100%;
+    }
+
+    .exh-artist h2 {
+        font-size: 22px;
+    }
+
+    .exh-title h1 {
+        font-size: 28px;
+    }
+
+    .ep-left,
+    .ep-right {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .exhibition-header {
+        min-height: 350px;
+    }
+}
+#tab-holder
+{
+	width: 100%;
+}
+.tab-content strong
+{
+	color: #404040;
+}
+.tab-nav
+{
+	margin-bottom: 10px
+}
+.tab-nav a
+{
+	font-weight: 500;
+}
+.tab-nav .active
+{
+	color: #da9779;
+}
+.tab-nav span
+{
+	padding: 0 10px;
+	font-weight: 500;
+}
+
+.no-images
+{
+	width: 100%;
+	height: 200px;
+	display: table;
+}
+.no-images p
+{
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+text-align: center;
+	font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.62px;
+  text-align: center;
+  color: #777777;
+}
+/*General fixes*/
+.header-style-1.header-align-left .header-logo a
+{
+	margin-left: 10px;
+}
+#mk-footer .mk-padding-wrapper
+{
+	padding: 0;
+}
+
+#mk-footer .widget_text p
+{
+	text-align: right;
+}
+#media
+{
+	padding: 10px 0;
+}
+@media (max-width: 1024px)
+{
+	#mk-footer .widget_text div,
+	#mk-footer .widget_text p
+	{
+		text-align: center;
+	}
+	#mk-footer .mk-col-1-2,
+	#mk-footer .widget
+	{
+		margin-bottom: 10px;
+	}
+}
+/*Exhibition index*/
+/*Exhibition index*/
+.exhibition-item p {
+    margin-bottom: 0;
+}
+
+.public-artworks-widget {
+    float: left;
+    width: 100%;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.exhibition-item {
+    width: 33.33%;
+    float: left;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+
+}
+
+.exhibition-inner {
+
+    box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.exhibition-image {
+    position: relative;
+    padding-top: 50%;
+}
+
+.exhibition-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.exhibition-description
+{
+    padding: 15px
+}
+.exhibition-name
+{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.45px;
+    color: #404040;
+}
+.exhibition-description a
+{
+    border-bottom: 1px solid #da9779 !important;
+    font-weight: 400;
+    color: #da9779;
+    margin-top: 25px;
+    display: inline-block;
+    line-height: 100%;
+	
+}
+@media (max-width: 980px) {
+    .exhibition-item {
+        width: 50%;
+    }
+	
+}
+
+@media (max-width: 540px) {
+	.public-artworks-widget
+	{
+		margin-left: 0;
+		margin-right: 0;
+	}
+    .exhibition-item {
+        width: 100%;
+			padding: 0;
+    }
+	.exhibitions-header .mk-text-block br
+	{
+		display: none;
+	}
+}
+.exhibition-date
+{
+	width: 100%;
+}
+.exhibition-date p
+{
+	  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.37px;
+  color: #777777;
+}
+.exhibition-information
+{
+	  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.35px;
+  color: #404040;
+	margin-top: 10px;
+	height: 100px;
+}
+.exhibitions-header h1
+{
+	  font-size: 30px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 100%;
+  letter-spacing: 0.75px;
+  color: #404040;
+	margin-bottom: 10px;
+}
+.exhibitions-header .mk-text-block p
+{
+	  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  color: #777777;
+}
+
+.exhibitions-header .mk-text-block
+{
+	margin-bottom: 40px;
+}		</style>
+		<meta name="generator" content="chenwenhsi " /><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+<body class="archive post-type-archive post-type-archive-product theme-jupiter cooltimeline-body woocommerce woocommerce-page woocommerce-no-js yith-wcan-pro mk-customizer columns-3 mk-sh-pl-hover-style-none wpb-js-composer js-comp-ver-5.5.5 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+<style>
+.menu-hover-style-5 .main-navigation-ul>li.current-menu-item a{
+    color: #ED1F24;
+}
+.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:after{
+    background-color: transparent!important;
+    background-image: url(/wp-content/themes/chenwenhsi/img/nav-underline.png);
+    background-size: 100% 5px;
+    background-repeat: no-repeat;
+    height: 5px;
+    position: relative;
+    top: 3px;
+}
+.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:hover{
+    color: #ED1F24;
+}
+</style>
+	
+	<div class="mk-body-loader-overlay page-preloader" style="background-color:#da9779;"><img alt="Chen Wen Hsi" class="preloader-logo" src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-preloader.png" width="331" height="100" > <div class="preloader-preview-area">  <div class="transparent-circle" style="
+                                border-top-color: rgba(255,255,255,0.2);
+                                border-right-color: rgba(255,255,255,0.2);
+                                border-bottom-color: rgba(255,255,255,0.2);
+                                border-left-color: #ffffff;">
+                        </div>  </div></div>
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='90'
+                data-sticky-height='55'
+                data-responsive-height='90'
+                data-transparent-skin='light'
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-menu" class="main-navigation-ul"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/">Home</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/about/">About</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/project/">Project</a></li>
+<li id="menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/media/">Media</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-item current_page_item no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gallery/">Gallery</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-961" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="/gallery/">All Works</a></li>
+	<li id="menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gibbons/">> Gibbons</a></li>
+	<li id="menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/chickens/">> Chickens</a></li>
+	<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/ducks/">> Ducks</a></li>
+</ul>
+</li>
+<li id="menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/exhibitions/">Exhibitions</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/contact/">Contact</a></li>
+</ul></nav>                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>	<div class=" header-logo fit-logo-img add-header-height  logo-has-sticky">
+		<a href="https://chenwenhsi.com/" title="Chen Wen Hsi">
+
+			<img class="mk-desktop-logo dark-logo "
+				title="My WordPress Blog"
+				alt="My WordPress Blog"
+				src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-logo-colour.png" />
+
+							<img class="mk-desktop-logo light-logo "
+					title="My WordPress Blog"
+					alt="My WordPress Blog"
+					src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-light-logo.png" />
+			
+			
+							<img class="mk-sticky-logo "
+					title="My WordPress Blog"
+					alt="My WordPress Blog"
+					src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-logo-colour.png" />
+					</a>
+	</div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/">Home</a></li>
+<li id="responsive-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/about/">About</a></li>
+<li id="responsive-menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/project/">Project</a></li>
+<li id="responsive-menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/media/">Media</a></li>
+<li id="responsive-menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-item current_page_item"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gallery/">Gallery</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-624031bab2501" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-961" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="/gallery/">All Works</a></li>
+	<li id="responsive-menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gibbons/">> Gibbons</a></li>
+	<li id="responsive-menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/chickens/">> Chickens</a></li>
+	<li id="responsive-menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/ducks/">> Ducks</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/exhibitions/">Exhibitions</a></li>
+<li id="responsive-menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/contact/">Contact</a></li>
+</ul></nav>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+ 
+                
+    </header>
+	<div id="theme-page" class="master-holder clearfix" role=&quot;main&quot; itemprop=&quot;mainContentOfPage&quot; >
+		<div class="master-holder-bg-holder">
+			<div id="theme-page-bg" class="master-holder-bg js-el"></div>
+		</div>
+		<div class="mk-main-wrapper-holder">
+			<div class="theme-page-wrapper left-layout no-padding mk-grid">
+				<div class="theme-content no-padding">
+	<header class="woocommerce-products-header">
+	
+	
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<div id="padding-3" class="mk-padding-divider   clearfix"></div>
+
+</div>
+	</div>
+
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	</div>
+	</div>
+
+</header>
+<div class="woocommerce-notices-wrapper"></div><h4 class="mk-woocommerce-shop-loop__title">ALL PRODUCTS</h4><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="filter_publication" value="tradition-revolution" /></form>
+<ul class="products columns-3">
+<li class="mk-info-sticky product type-product post-1653 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/a-pair-of-sparrows-and-blooms/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi A Pair of Sparrows and Blooms" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-60x60.jpg 60w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-550x550.jpg 550w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-1100x1100.jpg 1100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-500x500.jpg 500w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-225x225.jpg 225w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-200x200.jpg 200w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-300x300.jpg 300w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-600x600.jpg 600w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrows-4-1200x1200.jpg 1200w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">A Pair of Sparrows and Blooms</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/a-pair-of-sparrows-and-blooms/" data-quantity="1" data-product_id="1653" data-product_sku="1653" class="button product_type_simple" data-product_id="1653" data-product_sku="1653" aria-label="Read more about &ldquo;A Pair of Sparrows and Blooms&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab41a3" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1632 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/abstract/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Abstract" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Abstract</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/abstract/" data-quantity="1" data-product_id="1632" data-product_sku="1632" class="button product_type_simple" data-product_id="1632" data-product_sku="1632" aria-label="Read more about &ldquo;Abstract&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab49bc" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1646 status-publish last instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/abstract-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Abstract" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-1-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Abstract</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/abstract-2/" data-quantity="1" data-product_id="1646" data-product_sku="1646" class="button product_type_simple" data-product_id="1646" data-product_sku="1646" aria-label="Read more about &ldquo;Abstract&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab518d" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1633 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/abstract-cranes/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Abstract Cranes" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-abstract-cranes-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Abstract Cranes</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/abstract-cranes/" data-quantity="1" data-product_id="1633" data-product_sku="1633" class="button product_type_simple" data-product_id="1633" data-product_sku="1633" aria-label="Read more about &ldquo;Abstract Cranes&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab59ab" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1610 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/abstract-landscape/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Abstract Landscape" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-landscape-1-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Abstract Landscape</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/abstract-landscape/" data-quantity="1" data-product_id="1610" data-product_sku="1610" class="button product_type_simple" data-product_id="1610" data-product_sku="1610" aria-label="Read more about &ldquo;Abstract Landscape&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab6163" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1573 status-publish last instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/aiming-at-fruit/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Gibbon" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-gibbon-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Aiming at Fruit</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/aiming-at-fruit/" data-quantity="1" data-product_id="1573" data-product_sku="1573" class="button product_type_simple" data-product_id="1573" data-product_sku="1573" aria-label="Read more about &ldquo;Aiming at Fruit&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab694d" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1656 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/bird-and-pomegranate/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Bird and Pomegranate" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-sparrow-2-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Bird and Pomegranate</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/bird-and-pomegranate/" data-quantity="1" data-product_id="1656" data-product_sku="1656" class="button product_type_simple" data-product_id="1656" data-product_sku="1656" aria-label="Read more about &ldquo;Bird and Pomegranate&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab70ff" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1654 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/black-and-white-chickens/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Black and White Chickens" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-60x60.jpg 60w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-550x550.jpg 550w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-1100x1100.jpg 1100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-500x500.jpg 500w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-225x225.jpg 225w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-200x200.jpg 200w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-300x300.jpg 300w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-600x600.jpg 600w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-1-1200x1200.jpg 1200w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Black and White Chickens</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/black-and-white-chickens/" data-quantity="1" data-product_id="1654" data-product_sku="1654" class="button product_type_simple" data-product_id="1654" data-product_sku="1654" aria-label="Read more about &ldquo;Black and White Chickens&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab7979" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1598 status-publish last instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/carp/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Carp" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carp-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Carp</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/carp/" data-quantity="1" data-product_id="1598" data-product_sku="1598" class="button product_type_simple" data-product_id="1598" data-product_sku="1598" aria-label="Read more about &ldquo;Carp&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab8144" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1579 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/carps-8/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Carps" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-carps-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Carps</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/carps-8/" data-quantity="1" data-product_id="1579" data-product_sku="1579" class="button product_type_simple" data-product_id="1579" data-product_sku="1579" aria-label="Read more about &ldquo;Carps&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab8910" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1589 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/chickens-25/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Chickens" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chickens-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Chickens</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/chickens-25/" data-quantity="1" data-product_id="1589" data-product_sku="1589" class="button product_type_simple" data-product_id="1589" data-product_sku="1589" aria-label="Read more about &ldquo;Chickens&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab90c4" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+<li class="mk-info-sticky product type-product post-1648 status-publish last instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/cock-and-hen/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chen Wen Hsi Chicken" srcset="https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-250x250.jpg 250w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-266x266.jpg 266w, https://chenwenhsi.com/wp-content/uploads/2018/01/master-of-tradition-revolution-chicken-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Cock and Hen</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/cock-and-hen/" data-quantity="1" data-product_id="1648" data-product_sku="1648" class="button product_type_simple" data-product_id="1648" data-product_sku="1648" aria-label="Read more about &ldquo;Cock and Hen&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624031bab9888" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+</ul>
+<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span aria-current='page' class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='https://chenwenhsi.com/gallery/page/2/?filter_publication=tradition-revolution'>2</a></li>
+	<li><a class='page-numbers' href='https://chenwenhsi.com/gallery/page/3/?filter_publication=tradition-revolution'>3</a></li>
+	<li><a class='page-numbers' href='https://chenwenhsi.com/gallery/page/4/?filter_publication=tradition-revolution'>4</a></li>
+	<li><a class='page-numbers' href='https://chenwenhsi.com/gallery/page/5/?filter_publication=tradition-revolution'>5</a></li>
+	<li><a class="next page-numbers" href="https://chenwenhsi.com/gallery/page/2/?filter_publication=tradition-revolution">&rarr;</a></li>
+</ul>
+</nav>
+<p class="woocommerce-result-count">
+	Showing 1&ndash;12 of 53 results</p>
+
+					</div>
+			<aside id="mk-sidebar" class="mk-builtin" role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" >
+	<div class="sidebar-wrapper">
+	<section id="yith-woo-ajax-navigation-2" class="widget yith-woocommerce-ajax-product-filter yith-woo-ajax-navigation woocommerce widget_layered_nav with-checkbox"><div class="widgettitle">Medium</div><ul class='yith-wcan-list yith-wcan '><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_medium=ink-paper">Chinese Ink on Paper</a> <small class="count">53</small><div class="clear"></div></li></ul></section><section id="yith-woo-ajax-navigation-5" class="widget yith-woocommerce-ajax-product-filter yith-woo-ajax-navigation woocommerce widget_layered_nav with-checkbox"><div class="widgettitle">Publication</div><ul class='yith-wcan-list yith-wcan '><li class='chosen'><a  href="https://chenwenhsi.com/gallery/">Master of Tradition &amp; Revolution</a> <small class="count">53</small><div class="clear"></div></li></ul></section><section id="yith-woo-ajax-navigation-3" class="widget yith-woocommerce-ajax-product-filter yith-woo-ajax-navigation woocommerce widget_layered_nav with-checkbox"><div class="widgettitle">Subject</div><ul class='yith-wcan-list yith-wcan '><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=abstract">Abstract</a> <small class="count">3</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=bamboo">Bamboo</a> <small class="count">2</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=calligraphy">Calligraphy</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=chicken">Chicken</a> <small class="count">3</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=chrysanthemum">Chrysanthemum</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=crane">Crane</a> <small class="count">2</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=duck">Duck</a> <small class="count">4</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=fowls">Fowls</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=frog">Frog</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=fruits">Fruits</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=gibbon">Gibbon</a> <small class="count">5</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=goldfish">Goldfish</a> <small class="count">2</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=heron">Heron</a> <small class="count">3</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=koi-fish">Koi Fish</a> <small class="count">3</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=landscape">Landscape</a> <small class="count">5</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=lotus">Lotus</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=pigeon">Pigeon</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=portrait">Portrait</a> <small class="count">2</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=shrimp">Shrimp</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=sparrow">Sparrow</a> <small class="count">8</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=squirrel">Squirrel</a> <small class="count">4</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=temple">Temple</a> <small class="count">1</small><div class="clear"></div></li><li class='yit-wcan-parent-terms'><a  href="https://chenwenhsi.com/gallery/?filter_publication=tradition-revolution&#038;filter_subject=village-kampong">Village / Kampong</a> <small class="count">2</small><div class="clear"></div></li></ul></section>                <style>
+                    #yith-woo-ajax-reset-navigation-2 .yith-wcan .yith-wcan-reset-navigation.button {
+                                                background-color: #000000;
+                        
+                                                color: #ffffff;
+                        
+                                                border: 1px solid #ffffff;
+                                            }
+
+                    #yith-woo-ajax-reset-navigation-2 .yith-wcan .yith-wcan-reset-navigation.button:hover {
+                                                 background-color: #ffffff;
+                        
+                                                color: #000000;
+                        
+                                                border: 1px solid #000000;
+                                            }
+                </style>
+                <section id="yith-woo-ajax-reset-navigation-2" class="widget yith-woocommerce-ajax-product-filter yith-woo-ajax-reset-navigation yith-woo-ajax-navigation woocommerce widget_layered_nav"><div class="widgettitle">Reset All Filters</div><div class='yith-wcan'><a  class='yith-wcan-reset-navigation button' href='https://chenwenhsi.com/gallery/'>Reset All Filters</a></div></section>	</div>
+</aside>
+				<div class="clearboth"></div>
+				</div>
+			</div>
+		</div>
+
+	
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+		<div class="footer-wrapper mk-grid">
+		<div class="mk-padding-wrapper">
+				<div class="mk-col-1-2"><section id="text-1" class="widget widget_text">			<div class="textwidget"><div><a href="https://chenwenhsi.com/">Home</a>  <a href="https://chenwenhsi.com/about/">About</a>  <a href="https://chenwenhsi.com/project/">Project</a>  <a href="https://chenwenhsi.com/gallery/">Gallery</a>  <a href="https://chenwenhsi.com/contact/">Contact</a>  <a href="https://chenwenhsi.com/references/">References</a></div>
+</div>
+		</section></div>
+	<div class="mk-col-1-2">
+	    <div class="mk-col-1-2"></div>
+	    <div class="mk-col-1-2"></div>
+	</div>
+				<div class="clearboth"></div>
+		</div>
+	</div>
+		</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-624031babe179" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+</div>
+
+
+
+
+	<style type='text/css'></style><style id="mk-shortcode-static-styles" type="text/css"> #padding-3 { height:40px; } </style><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'https://chenwenhsi.com/wp-content/themes/jupiter/assets/js'
+      };
+    </script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder-400x400.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Atrue%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A287%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A287%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A444%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='js_composer_front-css'  href='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=5.5.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_39e26051c6b2a6550f015ac2de8788e7","fragment_name":"wc_fragments_39e26051c6b2a6550f015ac2de8788e7","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_wcan = {"container":".products","pagination":"nav.woocommerce-pagination","result_count":".woocommerce-result-count","wc_price_slider":{"wrapper":".price_slider","min_price":".price_slider_amount #min_price","max_price":".price_slider_amount #max_price"},"is_mobile":"","scroll_top":".yit-wcan-container","scroll_top_mode":"mobile","change_browser_url":"","avada":{"is_enabled":false,"sort_count":"ul.sort-count.order-dropdown"},"flatsome":{"is_enabled":false,"lazy_load_enabled":false},"yootheme":{"is_enabled":false}};
+var yith_wcan_frontend = {"loader_url":"https:\/\/chenwenhsi.com\/wp-content\/plugins\/yith-woocommerce-ajax-product-filter-premium\/assets\/images\/ajax-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/assets/js/yith-wcan-frontend.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_wcan_frontend_premium = {"ajax_wc_price_filter":"","wc_price_filter_slider":"","wc_price_filter_slider_in_ajax":"","wc_price_filter_dropdown":"","wc_price_filter_dropdown_style":"open","wc_price_filter_dropdown_widget_class":"h3.widget-title","widget_wrapper_class":".widget","price_filter_dropdown_class":"widget-dropdown","ajax_pagination_enabled":"","pagination_anchor":"nav.woocommerce-pagination a.page-numbers","force_widget_init":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/yith-woocommerce-ajax-product-filter-premium/assets/js/yith-wcan-frontend-premium.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/core-scripts.6.1.6.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/components-full.6.1.6.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-render.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-column.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/js/woocommerce.6.1.6.js?ver=1544533534'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/wp-embed.min.js?ver=5.2.15'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=5.5.5'></script>
+		<script type="text/javascript">
+		var ga_fired = false;
+		window.addEventListener("scroll", function(){
+			if ((document.documentElement.scrollTop != 0 && ga_fired === false) || (document.body.scrollTop != 0 && ga_fired === false)) {
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-105377125-1', 'auto');
+				ga('send', 'pageview');
+								ga_fired = true;
+			}
+		}, true);
+		</script> 
+				<script type="text/javascript">
+		var title = document.getElementsByClassName('mk-woocommerce-shop-loop__title');
+if (title.length > 0)
+	title[0].innerHTML = "ALL ART WORKS";
+
+
+    // Grab an element
+    setTimeout(switchSidebar, 2500);
+
+    var firstTime = true;
+    function toogleSidebar(el) {
+        var target = document.getElementById('mk-sidebar').getElementsByTagName('div')[0];
+        if (target.style.display === 'none') {
+            target.style.display = 'block';
+            el.target.innerHTML = 'Hide Filters';
+        }
+        else {
+            target.style.display = 'none';
+            el.target.innerHTML = 'Show Filters';
+        }
+
+        if (firstTime) {
+            target.style.display = 'block';
+            el.target.innerHTML = 'Hide Filters';
+            firstTime= false;
+        }
+
+    }
+
+    function switchSidebar() {
+        var sidebar = document.getElementById('mk-sidebar'),
+            // Make a new div
+            container = document.getElementById("theme-page").getElementsByClassName('theme-page-wrapper')[0];
+
+        if (sidebar != undefined)
+				{
+				
+        var switcher = document.createElement('button');
+        switcher.innerHTML = "Show Filters";
+        switcher.setAttribute('id', 'switcher');
+        switcher.setAttribute('class', 'wpcf7-submit');
+
+        // Prepend it to the parent element
+        container.insertBefore(sidebar, container.firstChild);
+        sidebar.insertBefore(switcher, sidebar.firstChild);
+        switcher.addEventListener('click', toogleSidebar, false)
+				} 
+		}
+
+
+		</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>
+	</body>
+</html>

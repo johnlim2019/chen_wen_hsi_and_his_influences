@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>
+		<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="format-detection" content="telephone=no"><title>A Lady - Chen Wen Hsi</title>
+<script type="text/javascript">var ajaxurl = "https://chenwenhsi.com/wp-admin/admin-ajax.php";</script>
+		<style id="critical-path-css" type="text/css">
+			body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}		</style>
+
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://chenwenhsi.com/gallery/lady/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Lady - Chen Wen Hsi" />
+<meta property="og:url" content="https://chenwenhsi.com/gallery/lady/" />
+<meta property="og:site_name" content="Chen Wen Hsi" />
+<meta property="og:image" content="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" />
+<meta property="og:image:secure_url" content="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="906" />
+<meta property="og:image:alt" content="Lady by Chen Wen Hsi" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="A Lady - Chen Wen Hsi" />
+<meta name="twitter:image" content="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Person","url":"https:\/\/chenwenhsi.com\/","sameAs":[],"@id":"#person","name":"Chen Wen Hsi"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Chen Wen Hsi &raquo; Feed" href="https://chenwenhsi.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chen Wen Hsi &raquo; Comments Feed" href="https://chenwenhsi.com/comments/feed/" />
+
+<link rel="shortcut icon" href="https://chenwenhsi.com/wp-content/uploads/2018/01/chen-wen-hsi-favicon.png"  />
+<script type="text/javascript">window.abb = {};php = {};window.PHP = {};PHP.ajax = "https://chenwenhsi.com/wp-admin/admin-ajax.php";PHP.wp_p_id = "558";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;var mk_images_dir = "https://chenwenhsi.com/wp-content/themes/jupiter/assets/images",mk_theme_js_path = "https://chenwenhsi.com/wp-content/themes/jupiter/assets/js",mk_theme_dir = "https://chenwenhsi.com/wp-content/themes/jupiter",mk_captcha_placeholder = "Enter Captcha",mk_captcha_invalid_txt = "Invalid. Try again.",mk_captcha_correct_txt = "Captcha correct.",mk_responsive_nav_width = 1140,mk_vertical_header_back = "Back",mk_vertical_header_anim = "1",mk_check_rtl = true,mk_grid_width = 1140,mk_ajax_search_option = "disable",mk_preloader_bg_color = "#da9779",mk_accent_color = "#da9779",mk_go_to_top =  "true",mk_smooth_scroll =  "true",mk_preloader_bar_color = "#da9779",mk_preloader_logo = "https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-preloader.png";var mk_header_parallax = false,mk_banner_parallax = false,mk_footer_parallax = false,mk_body_parallax = false,mk_no_more_posts = "No More Posts",mk_typekit_id   = "",mk_google_fonts = ["Poppins:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"],mk_global_lazyload = true;</script><link rel='stylesheet' id='wp-block-library-css'  href='https://chenwenhsi.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://chenwenhsi.com/wp-content/plugins/woo-gutenberg-products-block/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='GCTLP-timeline-styles-css-css'  href='https://chenwenhsi.com/wp-content/plugins/cool-timeline-pro/includes/gutenberg-instant-builder/dist/blocks.style.build.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.7.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.7.3' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/min/full-styles.6.1.6.css?ver=1544533536' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .hb-custom-header #mk-page-introduce, .mk-header { background-color:#ffffff;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } .hb-custom-header > div, .mk-header-bg { background-color:#fff; } .mk-classic-nav-bg { background-color:#fff; } .master-holder-bg { background-color:#fff; } #mk-footer { } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:#4d4d4d; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:#a3a3a3; font-size:14px; text-transform:none; } .mk-header { border-bottom:1px solid #ededed; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:91px; } .mk-process-steps[max-width~="950px"] ul::before { display:none !important; } .mk-process-steps[max-width~="950px"] li { margin-bottom:30px !important; width:100% !important; text-align:center; } .mk-event-countdown-ul[max-width~="750px"] li { width:90%; display:block; margin:0 auto 15px; } .compose-mode .vc_element-name .vc_btn-content { height:auto !important; } body, p, .mk-fancy-title { font-family:Poppins } @font-face { font-family:'star'; src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }
+</style>
+<link rel='stylesheet' id='mkhb-render-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-render.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-row-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-row.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-column-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-column.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-woocommerce-common-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/assets/stylesheet/plugins/min/woocommerce-common.6.1.6.css?ver=1544533536' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-cz-woocommerce-css'  href='https://chenwenhsi.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/css/woocommerce.6.1.6.css?ver=1544533534' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='https://chenwenhsi.com/wp-content/uploads/mk_assets/theme-options-production-1571371922.css?ver=1571371804' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-style-css'  href='https://chenwenhsi.com/wp-content/themes/chenwenhsi/style.css?ver=5.2.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/webfontloader.js?ver=5.2.15'></script>
+<script type='text/javascript'>
+WebFontConfig = {
+	timeout: 2000
+}
+
+if ( mk_typekit_id.length > 0 ) {
+	WebFontConfig.typekit = {
+		id: mk_typekit_id
+	}
+}
+
+if ( mk_google_fonts.length > 0 ) {
+	WebFontConfig.google = {
+		families:  mk_google_fonts
+	}
+}
+
+if ( (mk_google_fonts.length > 0 || mk_typekit_id.length > 0) && navigator.userAgent.indexOf("Speed Insights") == -1) {
+	WebFont.load( WebFontConfig );
+}
+		
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/chenwenhsi.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.5.5'></script>
+<link rel='https://api.w.org/' href='https://chenwenhsi.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://chenwenhsi.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://chenwenhsi.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.15" />
+<meta name="generator" content="WooCommerce 3.7.3" />
+<link rel='shortlink' href='https://chenwenhsi.com/?p=558' />
+<link rel="alternate" type="application/json+oembed" href="https://chenwenhsi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchenwenhsi.com%2Fgallery%2Flady%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://chenwenhsi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchenwenhsi.com%2Fgallery%2Flady%2F&#038;format=xml" />
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '171921100027636');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=171921100027636&ev=PageView&noscript=1"
+    /></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+    (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[] ,f=function(){var o={ti:"33000629"};
+        o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")} ,n=d.createElement(t),n.src=r,
+        n.async=1,n.onload=n .onreadystatechange=function() {var s=this.readyState;
+        s &&s!=="loaded"&& s!=="complete"||(f(),n.onload=n. onreadystatechange=null)},
+        i= d.getElementsByTagName(t)[0],i. parentNode.insertBefore(n,i)})(window,document,"script",
+        " //bat.bing.com/bat.js","uetq");
+</script><style type="text/css">
+                    .ctl-bullets-container {
+                display: block;
+                position: fixed;
+                right: 0;
+                height: 100%;
+                z-index: 1049;
+                font-weight: normal;
+                height: 70vh;
+                overflow-x: hidden;
+                overflow-y: auto;
+                margin: 15vh auto;
+            }</style><script> var isTest = false; </script><meta itemprop="author" content="chenwenhsi" /><meta itemprop="datePublished" content="August 19, 2017" /><meta itemprop="dateModified" content="August 19, 2017" /><meta itemprop="publisher" content="Chen Wen Hsi" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->		<style type="text/css" id="wp-custom-css">
+			
+.wpcf7-form-control-wrap input.wpcf7-not-valid
+{
+    margin-bottom: 20px;
+	border-color: red;
+}
+.wpcf7-form-control-wrap input
+{
+	width: 100%;
+}
+.wpcf7-form-control-wrap textarea
+{
+	width: 100% !important;
+margin-bottom: 20px;
+}
+span.wpcf7-not-valid-tip {
+ width: auto;
+position: static;
+    color: red;
+    font-size: 14px;
+margin-top: -15px;
+}
+
+
+
+
+ .inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    /* 20px */
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+    /* 10px 20px */
+}
+
+
+
+.inputfile:focus + label,
+.inputfile.has-focus + label {
+    outline: 1px dotted #000;
+    outline: -webkit-focus-ring-color auto 5px;
+}
+
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    /* 4px */
+    margin-right: 0.25em;
+    /* 4px */
+}
+
+.inputfile + label {
+    color: #f1e5e6;
+    background-color: #d3394c;
+}
+
+.inputfile:focus + label,
+.inputfile.has-focus + label,
+.inputfile + label:hover {
+    background-color: #722040;
+}
+.widget_layered_nav ul li.chosen a:hover
+{
+background: #fafafa !important;
+color: #da9779 !important;
+}
+.widget_layered_nav ul li.chosen a
+{
+transition: all 0.5s;
+background: #f8f8f8 !important;
+    color: #222 !important;
+    border-color: #222;
+}
+
+.inputfileX
+{
+display: none;
+}
+.forFile
+{
+	transition: all 0.5s;
+	background: #f8f8f8 !important;
+    color: #222 !important;
+	padding: 10px;
+	border: 1px solid #222;
+}
+
+.forFile:hover
+{
+	background: #fff !important;
+    color: #da9779!important;
+	border-color: #da9779;
+}
+.wpcf7-submit
+{
+    margin-top: 20px;
+}
+
+.file-284 .wpcf7-not-valid-tip
+{
+margin-top: 20px !important;
+}
+
+
+/*
+image section
+*/
+#theme-page #page-section-10 .background-layer, #theme-page #page-section-20 .background-layer
+{
+
+background-size: cover !important;
+}
+#switcher
+{
+display: none;
+}
+@media (min-width: 768px){
+#mk-sidebar>div
+	{
+		display: block !important;
+	}
+}
+#mk-sidebar>div
+	{
+		display: block;
+	}
+@media (max-width: 767px){
+	#switcher
+	{
+		display: block;
+	}
+	#mk-sidebar>div
+	{
+		display: none;
+	}
+	#page-section-10.full-width-10,
+	#page-section-20.full-width-20
+	{
+		min-height: 300px !important;
+	}
+}
+
+/*Gallery page*/
+
+.woocommerce-ordering
+{
+display: none;
+}
+
+#switcher
+{
+width: 100%;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#mk-footer .widget:not(.widget_social_networks) a
+{
+color: inherit;
+}
+.cool-timeline.white-timeline .timeline-post .timeline-content .content-title a:hover
+{
+filter: opacity(1) !important;
+    -webkit-filter: opacity(1) !important;
+}
+.mk-woocommerce-shop-loop__title
+{
+margin-bottom: 15px;
+}
+
+
+/*From parent*/
+
+
+@media(max-width: 980px)
+{
+	#padding-3
+	{
+		display: none;
+	}
+	#mk-sidebar .sidebar-wrapper
+	{
+		display: none;
+	}
+	.theme-page-wrapper #mk-sidebar
+	{
+		padding: 20px !important;
+		width: auto !important;
+	}
+	
+}
+.woocommerce-ordering
+{
+	display: none !important
+}
+.mk-woocommerce-shop-loop__title
+{
+	margin-bottom: 25px;
+}
+#switcher
+{
+
+	display: inline-block;
+
+}
+#mk-sidebar
+{
+	padding-top: 30px;
+}
+@media (min-width: 981px)
+{
+	#switcher{
+		display: none;
+	}
+}
+
+/*strait-times*/
+#strait-times
+{
+	position: relative;
+	background: #19bc9a;
+}
+#strait-times .wpb_column 
+{
+	position: relative;
+	padding: 30px !important;
+}
+
+#strait-times p
+{
+	color: #fff;
+	margin-bottom: 0;
+	position: relative;
+	padding-left: 15px;
+}
+#strait-times .wpb_column>div
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.st-featured p
+{
+	font-weight: 600;
+	line-height: 20px;
+	font-size: 17px;
+}
+
+.the-st p
+{
+	font-family:  "Times New Roman", Times, serif;
+	line-height: 16px;
+	font-size: 14px;
+	padding-top: 5px;
+	margin-left: 15px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.st-text p
+{
+	font-style: italic;
+	font-size: 17px !important;
+}
+
+.st-arrow-link p a
+{
+	font-style: normal;
+	font-size: 35px;
+	color: #fff;
+}
+.st-img img
+{
+}
+	#strait-times .wpb_column>div:last-child
+{
+	width: 40px;
+}
+@media(max-width: 980px)
+{
+	#strait-times p
+	{
+		margin: 0;
+		text-align: center;
+	}
+	.st-text br
+	{
+		display: none;
+	}
+	.st-text
+	{
+		margin-top: 30px;
+	}
+	#strait-times .wpb_column>div
+	{
+		text-align: center;
+		width: 100% !important;
+	}
+	#strait-times .wpb_column>div:first-child br
+	{
+		display: none;
+	}
+	#strait-times .wpb_column>div:first-child
+	{
+		margin-bottom: 30px !important;
+	}
+	#strait-times .wpb_column>div:last-child p a
+	{
+		font-size: 50px;
+	}
+	#strait-times	.wpb_column>div:last-child p
+	{
+		text-align: center;
+		margin-top: 40px !important;
+	}
+#strait-times .wpb_column>div:last-child
+	{
+text-align: center !important;
+		margin: 0 !important;
+	}
+}
+@media(min-width: 981px){
+#strait-times .wpb_column>div:nth-child(1)
+{
+	width: 21%;
+	min-width: 160px;
+}
+#strait-times .wpb_column>div:nth-child(2)
+{
+	width: 20%;
+	min-width: 180px;
+}
+#strait-times .wpb_column>div:nth-child(3)
+{
+	width: 50%;
+	min-width: 475px;
+}
+#strait-times .wpb_column>div:nth-child(4)
+{
+	width: 70px;
+	max-width: 7%;
+	margin-top: 10px;
+}
+}
+
+/*Exhibition page*/
+.exhibition-header {
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.exhibition-page {
+    padding: 40px 15px;
+}
+
+.exhibition-page > div {
+    box-sizing: border-box;
+    float: left;
+}
+
+.ep-left {
+    width: 60%;
+}
+
+.ep-right {
+    padding-left: 50px;
+    width: 40%;
+    margin-bottom: 40px;
+}
+
+.exh-title {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.exh-title > * {
+    display: inline-block;
+}
+
+.exh-title h1 {
+    font-size: 32px;
+    padding-right: 10px;
+    margin-bottom: 0;
+	  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+  color: #404040;
+}
+
+.exh-artist {
+    margin-bottom: 30px;
+}
+
+.exh-artist h2 {
+    padding-right: 10px;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.exh-artist h2 a {
+    border: none !important;
+}
+
+.exh-info {
+    margin-bottom: 40px;
+}
+
+.exh-artist > * {
+    display: inline-block;
+}
+.tab-content a,
+.exh-info-item a {
+	border-bottom: 1px solid #da9779 !important;
+	font-weight: 400;
+	color: #da9779; 
+	margin-top: 5px;
+	display: inline-block;
+	line-height: 100%
+}
+.tab-content a{
+	border: none !important;
+	text-decoration: underline
+}
+.exh-info-item {
+    position: relative;
+    margin-bottom: 30px !important;
+}
+
+.exh-info-item > p {
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 0;
+	line-height: normal;
+}
+
+.exhibition-page .ep-left a {
+    border-bottom: 1px solid #da9779 !important;
+    font-weight: 400;
+    color: #da9779;
+    margin-top: 5px;
+    display: inline-block;
+    line-height: 100%;
+}
+.exh-gallery-grid
+{
+	margin-right: -10px;
+	margin-left: -10px;
+}
+.exh-gallery-grid:after
+{
+	content: '';
+	display: table;
+	clear: both;
+	visibility: hidden;
+}
+.exh-gg-item {
+    width: 33.33%;
+    height: 260px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+	position: relative;
+
+}
+
+.exh-gg-item:hover a,
+.exh-gg-item:hover svg {
+    opacity: 1 !important;
+}
+
+.exh-gg-item:hover .mk-image-overlay {
+    opacity: 0.6 !important;
+}
+.exh-gg-item .mk-image-overlay
+{
+	width: calc(100% - 20px);
+	height: calc(100% - 20px);
+	left: 10px;
+	top: 10px;
+}
+.ii-title
+{
+	  font-size: 22px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.55px;
+  color: #404040;
+	margin-bottom: 5px !important;
+}
+
+.exh-gg-item img {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    box-sizing: border-box;
+    border: 1px solid #efefef;
+}
+.tab-content,
+.ep-grid {
+    width: 100% !important;
+}
+
+.ep-grid section.products {
+    width: 100% !important;
+}
+
+.exh-embed-video {
+    position: relative;
+    padding-top: 56.25%;
+    margin: 20px auto 40px auto;
+    display: block !important;
+}
+
+.exh-embed-video iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+@media (max-width: 980px) {
+    .ep-left {
+        padding-right: 20px;
+        width: 60%;
+    }
+
+    .ep-right {
+        width: 40%;
+        padding-left: 20px;
+    }
+
+    .exh-gg-item {
+        width: 50%;
+    }
+}
+
+@media (max-width: 576px) {
+	.exh-info-item > p
+	{
+		padding-left: 0;
+	}
+    #mk-theme-container .download_catalogue {
+        text-align: center;
+    }
+
+    #mk-theme-container .download_catalogue a {
+        padding-left: 0;
+        padding-right: 0;
+        width: 250px;
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .exh-gg-item {
+        width: 100%;
+    }
+
+    .exh-artist h2 {
+        font-size: 22px;
+    }
+
+    .exh-title h1 {
+        font-size: 28px;
+    }
+
+    .ep-left,
+    .ep-right {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .exhibition-header {
+        min-height: 350px;
+    }
+}
+#tab-holder
+{
+	width: 100%;
+}
+.tab-content strong
+{
+	color: #404040;
+}
+.tab-nav
+{
+	margin-bottom: 10px
+}
+.tab-nav a
+{
+	font-weight: 500;
+}
+.tab-nav .active
+{
+	color: #da9779;
+}
+.tab-nav span
+{
+	padding: 0 10px;
+	font-weight: 500;
+}
+
+.no-images
+{
+	width: 100%;
+	height: 200px;
+	display: table;
+}
+.no-images p
+{
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+text-align: center;
+	font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.62px;
+  text-align: center;
+  color: #777777;
+}
+/*General fixes*/
+.header-style-1.header-align-left .header-logo a
+{
+	margin-left: 10px;
+}
+#mk-footer .mk-padding-wrapper
+{
+	padding: 0;
+}
+
+#mk-footer .widget_text p
+{
+	text-align: right;
+}
+#media
+{
+	padding: 10px 0;
+}
+@media (max-width: 1024px)
+{
+	#mk-footer .widget_text div,
+	#mk-footer .widget_text p
+	{
+		text-align: center;
+	}
+	#mk-footer .mk-col-1-2,
+	#mk-footer .widget
+	{
+		margin-bottom: 10px;
+	}
+}
+/*Exhibition index*/
+/*Exhibition index*/
+.exhibition-item p {
+    margin-bottom: 0;
+}
+
+.public-artworks-widget {
+    float: left;
+    width: 100%;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.exhibition-item {
+    width: 33.33%;
+    float: left;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+
+}
+
+.exhibition-inner {
+
+    box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.exhibition-image {
+    position: relative;
+    padding-top: 50%;
+}
+
+.exhibition-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.exhibition-description
+{
+    padding: 15px
+}
+.exhibition-name
+{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.45px;
+    color: #404040;
+}
+.exhibition-description a
+{
+    border-bottom: 1px solid #da9779 !important;
+    font-weight: 400;
+    color: #da9779;
+    margin-top: 25px;
+    display: inline-block;
+    line-height: 100%;
+	
+}
+@media (max-width: 980px) {
+    .exhibition-item {
+        width: 50%;
+    }
+	
+}
+
+@media (max-width: 540px) {
+	.public-artworks-widget
+	{
+		margin-left: 0;
+		margin-right: 0;
+	}
+    .exhibition-item {
+        width: 100%;
+			padding: 0;
+    }
+	.exhibitions-header .mk-text-block br
+	{
+		display: none;
+	}
+}
+.exhibition-date
+{
+	width: 100%;
+}
+.exhibition-date p
+{
+	  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.37px;
+  color: #777777;
+}
+.exhibition-information
+{
+	  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.35px;
+  color: #404040;
+	margin-top: 10px;
+	height: 100px;
+}
+.exhibitions-header h1
+{
+	  font-size: 30px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 100%;
+  letter-spacing: 0.75px;
+  color: #404040;
+	margin-bottom: 10px;
+}
+.exhibitions-header .mk-text-block p
+{
+	  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  color: #777777;
+}
+
+.exhibitions-header .mk-text-block
+{
+	margin-bottom: 40px;
+}		</style>
+		<meta name="generator" content="chenwenhsi " /><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+<body class="product-template-default single single-product postid-558 theme-jupiter cooltimeline-body woocommerce woocommerce-page woocommerce-no-js yith-wcan-pro mk-customizer mk-sh-pl-hover-style-none columns-3 mk-product-layout-9 wpb-js-composer js-comp-ver-5.5.5 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+<style>
+.menu-hover-style-5 .main-navigation-ul>li.current-menu-item a{
+    color: #ED1F24;
+}
+.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:after{
+    background-color: transparent!important;
+    background-image: url(/wp-content/themes/chenwenhsi/img/nav-underline.png);
+    background-size: 100% 5px;
+    background-repeat: no-repeat;
+    height: 5px;
+    position: relative;
+    top: 3px;
+}
+.menu-hover-style-5 .main-navigation-ul>li.menu-item>a.menu-item-link:hover{
+    color: #ED1F24;
+}
+</style>
+	
+	<div class="mk-body-loader-overlay page-preloader" style="background-color:#da9779;"><img alt="Chen Wen Hsi" class="preloader-logo" src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-preloader.png" width="331" height="100" > <div class="preloader-preview-area">  <div class="transparent-circle" style="
+                                border-top-color: rgba(255,255,255,0.2);
+                                border-right-color: rgba(255,255,255,0.2);
+                                border-bottom-color: rgba(255,255,255,0.2);
+                                border-left-color: #ffffff;">
+                        </div>  </div></div>
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='90'
+                data-sticky-height='55'
+                data-responsive-height='90'
+                data-transparent-skin=''
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-menu" class="main-navigation-ul"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/">Home</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/about/">About</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/project/">Project</a></li>
+<li id="menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/media/">Media</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current_page_parent no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gallery/">Gallery</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-961" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="/gallery/">All Works</a></li>
+	<li id="menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gibbons/">> Gibbons</a></li>
+	<li id="menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/chickens/">> Chickens</a></li>
+	<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/ducks/">> Ducks</a></li>
+</ul>
+</li>
+<li id="menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/exhibitions/">Exhibitions</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/contact/">Contact</a></li>
+</ul></nav>                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>	<div class=" header-logo fit-logo-img add-header-height  logo-has-sticky">
+		<a href="https://chenwenhsi.com/" title="Chen Wen Hsi">
+
+			<img class="mk-desktop-logo dark-logo "
+				title="My WordPress Blog"
+				alt="My WordPress Blog"
+				src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-logo-colour.png" />
+
+							<img class="mk-desktop-logo light-logo "
+					title="My WordPress Blog"
+					alt="My WordPress Blog"
+					src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-light-logo.png" />
+			
+			
+							<img class="mk-sticky-logo "
+					title="My WordPress Blog"
+					alt="My WordPress Blog"
+					src="https://chenwenhsi.com/wp-content/uploads/2017/08/chen-wen-hsi-logo-colour.png" />
+					</a>
+	</div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/">Home</a></li>
+<li id="responsive-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/about/">About</a></li>
+<li id="responsive-menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/project/">Project</a></li>
+<li id="responsive-menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/media/">Media</a></li>
+<li id="responsive-menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current_page_parent"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gallery/">Gallery</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-6240324427ebe" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-961" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="/gallery/">All Works</a></li>
+	<li id="responsive-menu-item-960" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/gibbons/">> Gibbons</a></li>
+	<li id="responsive-menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/chickens/">> Chickens</a></li>
+	<li id="responsive-menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/ducks/">> Ducks</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/exhibitions/">Exhibitions</a></li>
+<li id="responsive-menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://chenwenhsi.com/contact/">Contact</a></li>
+</ul></nav>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+ 
+        <section id="mk-page-introduce" class="intro-left"><div class="mk-grid"><h2 class="page-title ">Chen Wen Hsi Gallery</h2><div id="mk-breadcrumbs"><div class="mk-breadcrumbs-inner light-skin"><span><span><a href="https://chenwenhsi.com/" >Home</a> » <span><a href="https://chenwenhsi.com/gallery/" >Products</a> » <span class="breadcrumb_last">A Lady</span></span></span></span></div></div><div class="clearboth"></div></div></section>        
+    </header>
+
+		<div id="theme-page" class="master-holder clearfix" role=&quot;main&quot; itemprop=&quot;mainContentOfPage&quot; >
+		<div class="master-holder-bg-holder">
+			<div id="theme-page-bg" class="master-holder-bg js-el"></div>
+		</div>
+		<div class="mk-main-wrapper-holder">
+			<div class="theme-page-wrapper full-layout  mk-grid">
+				<div class="theme-content ">
+	
+		
+			<div class="woocommerce-notices-wrapper"></div><div id="product-558" class="mk-info-sticky mk-product-orientation-horizontal product type-product post-558 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh-100x100.jpg" data-thumb-alt="Lady by Chen Wen Hsi" class="woocommerce-product-gallery__image"><a href="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg"><img width="500" height="378" src="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh-500x378.jpg" class="wp-post-image" alt="Lady by Chen Wen Hsi" title="Lady by Chen Wen Hsi" data-caption="" data-src="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" data-large_image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" data-large_image_width="1200" data-large_image_height="906" srcset="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh-500x378.jpg 500w, https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh-768x580.jpg 768w, https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh-1024x773.jpg 1024w, https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" itemprop="image" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+				<div class="mk-single-product-badges">
+					</div>
+	<h1 class="product_title entry-title">A Lady</h1><p class="price"></p>
+<div class="product_meta">
+
+	
+	
+		<span class="sku_wrapper">SKU: <span class="sku">558</span></span>
+
+	
+	<span class="posted_in">Category: <a href="https://chenwenhsi.com/product-category/uncategorized/" rel="tag">Uncategorized</a></span>
+	
+	
+</div>
+<div class="mk-woo-accordions woocommerce-tabs">
+<div data-style="toggle-action" data-initialIndex="0" id="mk-accordion-2" class="mk-accordion mobile-false simple-style ">
+	<div class="wpb_accordion_wrapper">
+		
+<div id="tab-additional_information"class="mk-accordion-single">
+
+	<div class="mk-accordion-tab">
+				<span>Additional information</span>
+		<svg  class="mk-svg-icon" data-name="mk-icon-chevron-right" data-cacheid="icon-624032442d877" style=" height:13px; width: 9.2857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1792"><path d="M1107 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45l166-166q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z"/></svg>	</div>
+
+	<div class="mk-accordion-pane">
+		<h2>Additional information</h2>
+<table class="woocommerce-product-attributes shop_attributes">
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_medium">
+<th class="woocommerce-product-attributes-item__label">Medium</th>
+<td class="woocommerce-product-attributes-item__value">
+<a href="https://chenwenhsi.com/medium/ink-paper/" rel="tag">Chinese Ink on Paper</a></p>
+</td>
+</tr>
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_subject">
+<th class="woocommerce-product-attributes-item__label">Subject</th>
+<td class="woocommerce-product-attributes-item__value">
+<a href="https://chenwenhsi.com/subject/calligraphy/" rel="tag">Calligraphy</a></p>
+</td>
+</tr>
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_size">
+<th class="woocommerce-product-attributes-item__label">Size</th>
+<td class="woocommerce-product-attributes-item__value">
+44.5 x 34cm</p>
+</td>
+</tr>
+<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_publication">
+<th class="woocommerce-product-attributes-item__label">Publication</th>
+<td class="woocommerce-product-attributes-item__value">
+A Dialogue With Tradition</p>
+</td>
+</tr>
+</table>
+		<div class="clearboth"></div>
+	</div>
+
+</div>
+	</div>
+</div>
+
+
+</div><div class="social-share"><ul><li class="share-by share-by-facebook"><a class="facebook-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-facebook" data-cacheid="icon-624032442e1c2" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M192.191 92.743v60.485h-63.638v96.181h63.637v256.135h97.069v-256.135h84.168s6.674-51.322 9.885-96.508h-93.666v-42.921c0-8.807 11.565-20.661 23.01-20.661h71.791v-95.719h-83.57c-111.317 0-108.686 86.262-108.686 99.142z"/></svg></a></li><li class="share-by share-by-twitter"><a class="twitter-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-twitter" data-cacheid="icon-624032442e644" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M454.058 213.822c28.724-2.382 48.193-15.423 55.683-33.132-10.365 6.373-42.524 13.301-60.269 6.681-.877-4.162-1.835-8.132-2.792-11.706-13.527-49.679-59.846-89.698-108.382-84.865 3.916-1.589 7.914-3.053 11.885-4.388 5.325-1.923 36.678-7.003 31.749-18.079-4.176-9.728-42.471 7.352-49.672 9.597 9.501-3.581 25.26-9.735 26.93-20.667-14.569 1.991-28.901 8.885-39.937 18.908 3.998-4.293 7.01-9.536 7.666-15.171-38.91 24.85-61.624 74.932-80.025 123.523-14.438-13.972-27.239-25.008-38.712-31.114-32.209-17.285-70.722-35.303-131.156-57.736-1.862 19.996 9.899 46.591 43.723 64.273-7.325-.986-20.736 1.219-31.462 3.773 4.382 22.912 18.627 41.805 57.251 50.918-17.642 1.163-26.767 5.182-35.036 13.841 8.043 15.923 27.656 34.709 62.931 30.82-39.225 16.935-15.998 48.234 15.93 43.565-54.444 56.244-140.294 52.123-189.596 5.08 128.712 175.385 408.493 103.724 450.21-65.225 31.23.261 49.605-10.823 60.994-23.05-17.99 3.053-44.072-.095-57.914-5.846z"/></svg></a></li><li class="share-by share-by-pinterest"><a class="pinterest-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-pinterest" data-cacheid="icon-624032442ea83" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M267.702-6.4c-135.514 0-203.839 100.197-203.839 183.724 0 50.583 18.579 95.597 58.402 112.372 6.536 2.749 12.381.091 14.279-7.361 1.325-5.164 4.431-18.204 5.83-23.624 1.913-7.363 1.162-9.944-4.107-16.38-11.483-13.968-18.829-32.064-18.829-57.659 0-74.344 53.927-140.883 140.431-140.883 76.583 0 118.657 48.276 118.657 112.707 0 84.802-36.392 156.383-90.42 156.383-29.827 0-52.161-25.445-45.006-56.672 8.569-37.255 25.175-77.456 25.175-104.356 0-24.062-12.529-44.147-38.469-44.147-30.504 0-55 32.548-55 76.119 0 27.782 9.097 46.546 9.097 46.546s-31.209 136.374-36.686 160.269c-10.894 47.563-1.635 105.874-.853 111.765.456 3.476 4.814 4.327 6.786 1.67 2.813-3.781 39.131-50.022 51.483-96.234 3.489-13.087 20.066-80.841 20.066-80.841 9.906 19.492 38.866 36.663 69.664 36.663 91.686 0 153.886-86.2 153.886-201.577 0-87.232-71.651-168.483-180.547-168.483z"/></svg></a></li><li class="share-by share-by-linkedin"><a class="linkedin-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-linkedin" data-cacheid="icon-624032442eea2" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M80.111 25.6c-29.028 0-48.023 20.547-48.023 47.545 0 26.424 18.459 47.584 46.893 47.584h.573c29.601 0 47.999-21.16 47.999-47.584-.543-26.998-18.398-47.545-47.442-47.545zm-48.111 128h96v320.99h-96v-320.99zm323.631-7.822c-58.274 0-84.318 32.947-98.883 55.996v1.094h-.726c.211-.357.485-.713.726-1.094v-48.031h-96.748c1.477 31.819 0 320.847 0 320.847h96.748v-171.241c0-10.129.742-20.207 3.633-27.468 7.928-20.224 25.965-41.185 56.305-41.185 39.705 0 67.576 31.057 67.576 76.611v163.283h97.717v-176.313c0-104.053-54.123-152.499-126.347-152.499z"/></svg></a></li><li class="share-by share-by-googleplus"><a class="googleplus-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-googleplus" data-cacheid="icon-624032442f27c" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416.146 153.104v-95.504h-32.146v95.504h-95.504v32.146h95.504v95.504h32.145v-95.504h95.504v-32.146h-95.504zm-128.75-95.504h-137.717c-61.745 0-119.869 48.332-119.869 102.524 0 55.364 42.105 100.843 104.909 100.843 4.385 0 8.613.296 12.772 0-4.074 7.794-6.982 16.803-6.982 25.925 0 12.17 5.192 22.583 12.545 31.46-5.303-.046-10.783.067-16.386.402-37.307 2.236-68.08 13.344-91.121 32.581-18.765 12.586-32.751 28.749-39.977 46.265-3.605 8.154-5.538 16.62-5.538 25.14l.018.82-.018.983c0 49.744 64.534 80.863 141.013 80.863 87.197 0 135.337-49.447 135.337-99.192l-.003-.363.003-.213-.019-1.478c-.007-.672-.012-1.346-.026-2.009-.012-.532-.029-1.058-.047-1.583-1.108-36.537-13.435-59.361-48.048-83.887-12.469-8.782-36.267-30.231-36.267-42.81 0-14.769 4.221-22.041 26.439-39.409 22.782-17.79 38.893-39.309 38.893-68.424 0-34.65-15.439-76.049-44.392-76.049h43.671l30.81-32.391zm-85.642 298.246c19.347 13.333 32.891 24.081 37.486 41.754v.001l.056.203c1.069 4.522 1.645 9.18 1.666 13.935-.325 37.181-26.35 66.116-100.199 66.116-52.713 0-90.82-31.053-91.028-68.414.005-.43.008-.863.025-1.292l.002-.051c.114-3.006.505-5.969 1.15-8.881.127-.54.241-1.082.388-1.617 1.008-3.942 2.502-7.774 4.399-11.478 18.146-21.163 45.655-33.045 82.107-35.377 28.12-1.799 53.515 2.818 63.95 5.101zm-47.105-107.993c-35.475-1.059-69.194-39.691-75.335-86.271-6.121-46.61 17.663-82.276 53.154-81.203 35.483 1.06 69.215 38.435 75.336 85.043 6.121 46.583-17.685 83.517-53.154 82.43z"/></svg></a></li><li class="share-by share-by-reddit"><a class="reddit-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-reddit" data-cacheid="icon-624032442f695" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M344.858 357.11c-2.61-1.683-5.649-2.71-8.844-2.71-2.582 0-5.264.728-7.66 2.296-22.552 13.495-49.098 20.884-75.465 20.884-19.778 0-39.427-4.18-57.236-12.924l-.093-.057-.085-.029c-2.682-1.099-5.742-3.438-9.079-5.649-1.698-1.099-3.474-2.198-5.442-2.997-1.933-.827-4.079-1.411-6.384-1.411-1.911 0-3.923.442-5.884 1.326l-.314.129h.014c-3.102 1.169-5.528 3.338-7.097 5.906-1.625 2.668-2.424 5.735-2.424 8.815 0 2.781.656 5.549 2.011 8.074 1.291 2.353 3.267 4.464 5.856 5.849 25.454 17.173 55.424 24.947 85.522 24.919 27.131 0 54.404-6.291 78.71-17.702l.129-.086.115-.072c3.209-1.883 7.474-3.594 11.483-6.09 1.983-1.242 3.922-2.712 5.578-4.608 1.683-1.897 3.009-4.221 3.764-6.974v-.029c.315-1.213.471-2.397.471-3.58 0-2.282-.558-4.408-1.483-6.333-1.37-2.867-3.581-5.249-6.163-6.947zm-153.491-75.51c0-17.673-14.327-32-32-32s-32.001 14.327-32.001 32c0 17.674 14.327 32 32.001 32s32-14.326 32-32zm160.229-32c-17.674 0-32.001 14.327-32.001 32s14.327 32 32.001 32c17.672 0 32-14.326 32-32s-14.328-32-32-32zm160.185-21.306v-.091c-1.185-14.981-7.289-28.797-16.348-39.717-9.058-10.892-21.092-18.987-34.394-22.562v-.014l-.228-.046-.213-.06h-.029c-5.631-1.519-11.432-2.305-17.25-2.305-13.058 0-26.106 3.856-37.137 11.625-3 1.897-5.66 4.104-8.158 6.25-1.158-.657-2.43-1.389-3.115-1.837l-.529-.309h-.043c-36.351-22.122-77.82-32.568-119.047-35.425.231-17.574 1.703-35.274 9.06-50.413v-.046c4.844-10.309 14.834-17.481 25.592-18.579h.015c2.072-.219 4.144-.332 6.228-.332 8.043-.009 16.435-.227 24.656.711.927 31.364 26.71 56.597 58.294 56.597 32.168 0 58.338-26.17 58.338-58.338s-26.17-58.339-58.338-58.339c-20.945 0-39.339 11.1-49.63 27.72-10.971-1.237-22.346-.625-33.404-.625-6.66 0-13.334.627-19.963 1.989l-.099.021-.057.032c-17.42 4.496-32.039 17.496-40.454 34.2-10.117 20.097-12.667 43.065-13.032 65.013-41.868 2.571-84.829 11.497-121.781 34.656-2.428.967-4.573 2.207-6.558 3.302-6.102-5.124-12.947-8.835-19.82-11.888l-.043-.014-.043-.031c-8.073-3.28-16.569-4.731-25.042-4.731-1.779 0-3.573.077-5.33.204h-.715c-16.869 0-32.594 8.239-44.105 20.829-11.517 12.6-18.927 29.688-18.941 47.738v.203c.535 12.893 4.715 25.063 11.318 35.477 6.158 9.705 14.482 17.824 24.092 23.522-.664 5.229-1.008 10.49-1.008 15.795 0 23.31 6.309 46.497 17.776 66.269 21.326 37.067 56.099 62.356 92.588 78.272h.029l.015.031c35.188 14.906 72.919 22.115 110.671 22.115 25.32 0 50.642-3.219 75.221-9.524l.029-.029h.014c46.069-12.44 91.68-37.096 121.388-78.892h.027c16.09-22.312 25.32-50.142 25.32-78.468 0-5.26-.356-10.521-1-15.751 9.861-5.715 18.42-14.103 24.637-24.156 6.644-10.717 10.644-23.362 10.644-36.529 0-1.172-.027-2.35-.099-3.522zm-112.646-180.229c13.971 0 25.338 11.367 25.338 25.339s-11.366 25.339-25.338 25.339-25.338-11.367-25.338-25.339 11.366-25.339 25.338-25.339zm-354.054 210.243c-2.944-2.827-5.552-6.109-7.538-9.675-2.694-4.815-4.281-10.106-4.281-15.577 0-.674.014-1.391.079-2.117l.014-.06v-.091c.307-8.858 4.365-16.908 10.496-22.864 6.115-5.978 14.282-9.712 22.363-9.947l.135-.014h.135c.943-.106 1.894-.174 2.843-.174 5.624-.03 11.325 1.913 16.834 4.626-16.868 15.448-31.615 34.011-41.081 55.893zm398.497 67.493h-.015v.029c-2.642 14.421-8.558 27.663-16.662 39.514-8.056 11.836-18.262 22.281-29.264 30.868l-.014.031c-34.567 27.164-77.336 40.481-119.931 44.198-7.101.544-14.305.785-21.464.785-42.274 0-84.88-9.553-121.875-31.394-2.901-1.724-5.73-3.508-8.545-5.322-12.733-8.556-24.849-19.017-34.71-31.276-9.881-12.244-17.511-26.287-21.405-42.037h-.029c-1.793-7.031-2.651-14.24-2.651-21.437 0-19.59 6.352-39.241 17.226-55.084v-.044c21.427-31.698 54.85-52.174 89.51-63.814 26.685-8.692 54.529-13.069 82.393-13.069 20.75 0 41.51 2.449 61.774 7.317 6.774 1.632 13.49 3.546 20.149 5.707l.228.091c34.666 11.504 67.99 32.114 89.465 63.738 10.776 15.766 17.422 35.387 17.422 54.871 0 5.488-.517 10.928-1.601 16.326zm31.207-77.614c-1.971 3.877-4.615 7.354-7.688 10.196-9.601-21.986-24.435-40.647-41.353-56.187 5.315-2.834 11.318-4.263 17.348-4.263 6.658 0 13.289 1.724 18.961 5.109 5.688 3.364 10.39 8.299 13.39 14.837l.014.061.057.045c2.258 4.406 3.287 9.123 3.287 13.846 0 5.615-1.457 11.3-4.015 16.357z"/></svg></a></li><li class="share-by share-by-digg"><a class="digg-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="#" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-digg" data-cacheid="icon-624032442fac8" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M191.5 88.188h-32.519v32.871h32.519v-32.871zm-31.5 225.063h32v-160.049h-32v160.049zm-63.656-160.383h-96.619v161.383h128.137v-225.228h-31.519v63.845zm.163 127.4h-64.293v-94.132h64.293v94.132zm127.611 32.983h95.113v32.026h-94.613v33.82h129.119v-226.228h-129.619v160.383zm31.913-127.115h63.293v94.132h-63.293v-94.132zm126.85 127.115h94.613v32.026h-94.613v33.82h129.119v-226.228h-129.119v160.383zm33.413-127.115h61.293v94.132h-61.293v-94.132z"/></svg></a></li><li class="share-by share-by-email"><a class="email-share" data-title="A Lady" data-url="https://chenwenhsi.com/gallery/lady/" data-desc="" data-image="https://chenwenhsi.com/wp-content/uploads/2017/08/a-lady-cwh.jpg" href="/cdn-cgi/l/email-protection#300f6345525a5553440d71107c51544916515d400b725f54490d" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-envelop-2" data-cacheid="icon-6240324430125" style=" height:18px; width: 18px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M325.608 265.182l186.392 128.554v-295.947zm-325.608-167.393v295.947l186.388-128.572zm256 229.902l-44.501-39.955-211.499 128.264h512l-211.505-128.264zm240.64-231.691h-481.28l240.64 180.926z"/></svg></a></li></ul></div>	</div>
+
+	
+	<section class="related products">
+
+		<h2>Related products</h2>
+
+		<ul class="products columns-4">
+
+			
+				<li class="mk-info-sticky mk-product-orientation-horizontal product type-product post-447 status-publish first instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/good-earth/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2017/08/good-earth-1971-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Good Earth by Chen Wen Hsi" srcset="https://chenwenhsi.com/wp-content/uploads/2017/08/good-earth-1971-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2017/08/good-earth-1971-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2017/08/good-earth-1971-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2017/08/good-earth-1971-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Good Earth</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/good-earth/" data-quantity="1" data-product_id="447" data-product_sku="447" class="button product_type_simple" data-product_id="447" data-product_sku="447" aria-label="Read more about &ldquo;Good Earth&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-6240324433cfc" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+
+			
+				<li class="mk-info-sticky mk-product-orientation-horizontal product type-product post-207 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/red-herons/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2017/07/red-cranes-chen-wen-hsi-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Red Cranes by Chen Wen Hsi" srcset="https://chenwenhsi.com/wp-content/uploads/2017/07/red-cranes-chen-wen-hsi-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2017/07/red-cranes-chen-wen-hsi-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2017/07/red-cranes-chen-wen-hsi-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2017/07/red-cranes-chen-wen-hsi-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Red Herons</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/red-herons/" data-quantity="1" data-product_id="207" data-product_sku="207" class="button product_type_simple" data-product_id="207" data-product_sku="207" aria-label="Read more about &ldquo;Red Herons&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-62403244347cc" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+
+			
+				<li class="mk-info-sticky mk-product-orientation-horizontal product type-product post-433 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="mk-product-warp"><a href="https://chenwenhsi.com/gallery/call-in-the-valley/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="400" height="400" src="https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-400x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Call in the Valley" srcset="https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-300x300.jpg 300w, https://chenwenhsi.com/wp-content/uploads/2017/08/call-in-the-valley-e1503120692127-60x60.jpg 60w" sizes="(max-width: 400px) 100vw, 400px" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Call in the Valley</h2>
+</a><a rel="nofollow" href="https://chenwenhsi.com/gallery/call-in-the-valley/" data-quantity="1" data-product_id="433" data-product_sku="433" class="button product_type_simple" data-product_id="433" data-product_sku="433" aria-label="Read more about &ldquo;Call in the Valley&rdquo;" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-624032443526b" style=" height:12px; width: 12px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg><span class="button-text">Read more</span></a></div></li>
+
+			
+		</ul>
+
+	</section>
+
+<div class="clearboth"></div></div>
+
+
+		
+	
+					</div>
+							<div class="clearboth"></div>
+				</div>
+			</div>
+		</div>
+
+	
+	
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+		<div class="footer-wrapper mk-grid">
+		<div class="mk-padding-wrapper">
+				<div class="mk-col-1-2"><section id="text-1" class="widget widget_text">			<div class="textwidget"><div><a href="https://chenwenhsi.com/">Home</a>  <a href="https://chenwenhsi.com/about/">About</a>  <a href="https://chenwenhsi.com/project/">Project</a>  <a href="https://chenwenhsi.com/gallery/">Gallery</a>  <a href="https://chenwenhsi.com/contact/">Contact</a>  <a href="https://chenwenhsi.com/references/">References</a></div>
+</div>
+		</section></div>
+	<div class="mk-col-1-2">
+	    <div class="mk-col-1-2"></div>
+	    <div class="mk-col-1-2"></div>
+	</div>
+				<div class="clearboth"></div>
+		</div>
+	</div>
+		</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-6240324436071" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+</div>
+
+
+
+
+	<style type='text/css'></style><style id="mk-shortcode-static-styles" type="text/css">#mk-accordion-2 .mk-accordion-pane{background-color:#fff;}</style><a class="mk-post-nav mk-post-prev with-image" href="https://chenwenhsi.com/gallery/practising-calligraphy/"><span class="pagnav-wrapper"><span class="pagenav-top"><span class="pagenav-image"><img width="150" height="150" src="https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-150x150.jpg" class="attachment-image-size-150x150 size-image-size-150x150 wp-post-image" alt="Huai Su Practising Calligraphy" srcset="https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-300x300.jpg 300w, https://chenwenhsi.com/wp-content/uploads/2017/08/huai-su-practising-caligraphy-60x60.jpg 60w" sizes="(max-width: 150px) 100vw, 150px" itemprop="image" /></span><span class="mk-pavnav-icon"><svg  class="mk-svg-icon" data-name="mk-icon-long-arrow-left" data-cacheid="icon-6240324436a6b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 800v192q0 14-9 23t-23 9h-1248v224q0 21-19 29t-35-5l-384-350q-10-10-10-23 0-14 10-24l384-354q16-14 35-6 19 9 19 29v224h1248q14 0 23 9t9 23z"/></svg></span></span><div class="nav-info-container"><span class="pagenav-bottom"><span class="pagenav-title">Huai Su Practising Calligraphy</span><span class="pagenav-category">Uncategorized</span></span></div></span></a><a class="mk-post-nav mk-post-next with-image" href="https://chenwenhsi.com/gallery/gourds/"><span class="pagnav-wrapper"><span class="pagenav-top"><span class="mk-pavnav-icon"><svg  class="mk-svg-icon" data-name="mk-icon-long-arrow-right" data-cacheid="icon-62403244371ba" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1728 893q0 14-10 24l-384 354q-16 14-35 6-19-9-19-29v-224h-1248q-14 0-23-9t-9-23v-192q0-14 9-23t23-9h1248v-224q0-21 19-29t35 5l384 350q10 10 10 23z"/></svg></span><span class="pagenav-image"><img width="150" height="150" src="https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-150x150.jpg" class="attachment-image-size-150x150 size-image-size-150x150 wp-post-image" alt="Gourds Chen Wen Hsi" srcset="https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-150x150.jpg 150w, https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-400x400.jpg 400w, https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-100x100.jpg 100w, https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-300x300.jpg 300w, https://chenwenhsi.com/wp-content/uploads/2017/08/gourds-chen-wen-hsi-60x60.jpg 60w" sizes="(max-width: 150px) 100vw, 150px" itemprop="image" /></span></span><div class="nav-info-container"><span class="pagenav-bottom"><span class="pagenav-title">Gourds</span><span class="pagenav-category">Uncategorized</span></span></div></span></a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'https://chenwenhsi.com/wp-content/themes/jupiter/assets/js'
+      };
+    </script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder-400x400.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Atrue%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A287%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A287%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A444%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fchenwenhsi.com%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='js_composer_front-css'  href='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=5.5.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/lib/bower/flexslider/jquery.flexslider-min.js?ver=5.5.5'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":true,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_39e26051c6b2a6550f015ac2de8788e7","fragment_name":"wc_fragments_39e26051c6b2a6550f015ac2de8788e7","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/core-scripts.6.1.6.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/components-full.6.1.6.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=1544533535'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-render.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-column.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/js/woocommerce.6.1.6.js?ver=1544533534'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-includes/js/wp-embed.min.js?ver=5.2.15'></script>
+<script type='text/javascript' src='https://chenwenhsi.com/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=5.5.5'></script>
+		<script type="text/javascript">
+		var ga_fired = false;
+		window.addEventListener("scroll", function(){
+			if ((document.documentElement.scrollTop != 0 && ga_fired === false) || (document.body.scrollTop != 0 && ga_fired === false)) {
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-105377125-1', 'auto');
+				ga('send', 'pageview');
+								ga_fired = true;
+			}
+		}, true);
+		</script> 
+				<script type="text/javascript">
+		var title = document.getElementsByClassName('mk-woocommerce-shop-loop__title');
+if (title.length > 0)
+	title[0].innerHTML = "ALL ART WORKS";
+
+
+    // Grab an element
+    setTimeout(switchSidebar, 2500);
+
+    var firstTime = true;
+    function toogleSidebar(el) {
+        var target = document.getElementById('mk-sidebar').getElementsByTagName('div')[0];
+        if (target.style.display === 'none') {
+            target.style.display = 'block';
+            el.target.innerHTML = 'Hide Filters';
+        }
+        else {
+            target.style.display = 'none';
+            el.target.innerHTML = 'Show Filters';
+        }
+
+        if (firstTime) {
+            target.style.display = 'block';
+            el.target.innerHTML = 'Hide Filters';
+            firstTime= false;
+        }
+
+    }
+
+    function switchSidebar() {
+        var sidebar = document.getElementById('mk-sidebar'),
+            // Make a new div
+            container = document.getElementById("theme-page").getElementsByClassName('theme-page-wrapper')[0];
+
+        if (sidebar != undefined)
+				{
+				
+        var switcher = document.createElement('button');
+        switcher.innerHTML = "Show Filters";
+        switcher.setAttribute('id', 'switcher');
+        switcher.setAttribute('class', 'wpcf7-submit');
+
+        // Prepend it to the parent element
+        container.insertBefore(sidebar, container.firstChild);
+        sidebar.insertBefore(switcher, sidebar.firstChild);
+        switcher.addEventListener('click', toogleSidebar, false)
+				} 
+		}
+
+
+		</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>
+	</body>
+</html>
